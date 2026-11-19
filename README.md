@@ -48,9 +48,10 @@ Me interesa especialmente la arquitectura de software, la automatización de pro
 
 Experiencia como relator y formador en tecnologías de desarrollo de software, programación y análisis de datos.
 
-- Full Stack Java Bootcamp — 250 horas.
-- Python para AFP Habitat — 24 horas.
+- Full Stack Java Bootcamp — Talento Digital Chile
+- Python para AFP Habitat
 - Análisis de datos con Python — Watts Chile.
+- Linux Avanzado - Comando Sur Austral
 - Profesor de Universidad. Asignaturas impartidas: Arquitectura de Sistemas, Patrones de Diseño, Computación en la Nube, Herramientas tecnológicas Avanzadas
 
 ---
